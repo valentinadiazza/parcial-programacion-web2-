@@ -1,0 +1,45 @@
+header{
+ background-color: rgb(0, 0, 0);
+ color: rgba(253, 251, 249, 0.8);
+ text-align: center;
+}
+
+nav{
+    background-color: rgb(6, 7, 14);
+    padding: 10px;
+    text-align: center;
+   }
+
+   /* estilo en cada enlace */
+   nav a{
+   color: rgba(253, 251, 249, 0.8);
+   text-decoration: none;
+   margin-right: 15px; /* espacio entre opciones */
+   font-size: 16px;
+
+   }
+
+   /* Efecto al pasar el mouse */
+   Nav a:hover{
+      text-decoration: underline;
+
+   }
+
+   footer{
+    text-align: center;
+   }
+   main{
+    text-align: center;
+   }
+   main img{
+    max-width: 80%;
+    height: auto;
+    width: 300px;
+   }
+/* ===== FOOTER ===== */
+footer {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
